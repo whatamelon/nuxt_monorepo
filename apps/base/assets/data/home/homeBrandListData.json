@@ -1,0 +1,173 @@
+{
+  "componentId": 234,
+  "template": {
+    "id": 50,
+    "type": "HomeBrandList",
+    "alias": "HomeBrandList",
+    "url": "/templates/home/HomeBrandList.vue",
+    "version": "0.1"
+  },
+  "contents": {
+    "contentsId": 312,
+    "title": "브랜드별 신상품 보기",
+    "subTitle": "",
+    "brandList": [
+      {
+        "code": "HC",
+        "brandName": "헨리코튼",
+        "eventId": "392",
+        "imgLink": "https://s3.ap-northeast-2.amazonaws.com/img.the-relay/components/234/contents/392_image.png",
+        "isEdit": false,
+        "newImagePrev": null,
+        "newImageValue": null,
+        "index": 0
+      },
+      {
+        "code": "SR",
+        "brandName": "시리즈",
+        "eventId": "213",
+        "imgLink": "https://s3.ap-northeast-2.amazonaws.com/img.the-relay/components/234/contents/213_image.png",
+        "isEdit": false,
+        "newImagePrev": null,
+        "newImageValue": null,
+        "index": 1
+      },
+      {
+        "code": "EG",
+        "brandName": "에피그램",
+        "eventId": "332",
+        "imgLink": "https://s3.ap-northeast-2.amazonaws.com/img.the-relay/components/234/contents/332_image.png",
+        "isEdit": false,
+        "newImagePrev": null,
+        "newImageValue": null,
+        "index": 2
+      },
+      {
+        "code": "CW",
+        "brandName": "커스텀멜로우",
+        "eventId": "346",
+        "imgLink": "https://s3.ap-northeast-2.amazonaws.com/img.the-relay/components/234/contents/346_image.png",
+        "isEdit": false,
+        "newImagePrev": null,
+        "newImageValue": null,
+        "index": 3
+      },
+      {
+        "code": "LC",
+        "brandName": "럭키슈에뜨",
+        "eventId": "214",
+        "imgLink": "https://s3.ap-northeast-2.amazonaws.com/img.the-relay/components/234/contents/214_image.png",
+        "isEdit": false,
+        "newImagePrev": null,
+        "newImageValue": null,
+        "index": 4
+      },
+      {
+        "code": "CR",
+        "brandName": "쿠론",
+        "eventId": "352",
+        "imgLink": "https://s3.ap-northeast-2.amazonaws.com/img.the-relay/components/234/contents/352_image.png",
+        "isEdit": false,
+        "newImagePrev": null,
+        "newImageValue": null,
+        "index": 5
+      },
+      {
+        "code": "SC",
+        "brandName": "슈콤마보니",
+        "eventId": "211",
+        "imgLink": "https://s3.ap-northeast-2.amazonaws.com/img.the-relay/components/234/contents/211_image.png",
+        "isEdit": false,
+        "newImagePrev": null,
+        "newImageValue": null,
+        "index": 6
+      },
+      {
+        "code": "FR",
+        "brandName": "프리커",
+        "eventId": "345",
+        "imgLink": "https://s3.ap-northeast-2.amazonaws.com/img.the-relay/components/234/contents/345_image.png",
+        "isEdit": false,
+        "newImagePrev": null,
+        "newImageValue": null,
+        "index": 7
+      },
+      {
+        "code": "KS",
+        "brandName": "코오롱스포츠",
+        "eventId": "212",
+        "imgLink": "https://s3.ap-northeast-2.amazonaws.com/img.the-relay/components/234/contents/212_image.png",
+        "isEdit": false,
+        "newImagePrev": null,
+        "newImageValue": null,
+        "index": 8
+      },
+      {
+        "code": "AK",
+        "brandName": "아카이브앱크",
+        "eventId": "351",
+        "imgLink": "https://s3.ap-northeast-2.amazonaws.com/img.the-relay/components/234/contents/351_image.png",
+        "isEdit": false,
+        "newImagePrev": null,
+        "newImageValue": null,
+        "index": 9
+      },
+      {
+        "code": "RC",
+        "brandName": "래코드",
+        "eventId": "264",
+        "imgLink": "https://s3.ap-northeast-2.amazonaws.com/img.the-relay/components/234/contents/264_image.png",
+        "isEdit": false,
+        "newImagePrev": null,
+        "newImageValue": null,
+        "index": 10
+      },
+      {
+        "code": "BD",
+        "brandName": "볼디스트",
+        "eventId": "334",
+        "imgLink": "https://s3.ap-northeast-2.amazonaws.com/img.the-relay/components/234/contents/334_image.png",
+        "isEdit": false,
+        "newImagePrev": null,
+        "newImageValue": null,
+        "index": 11
+      },
+      {
+        "code": "CM",
+        "brandName": "캠브리지멤버스",
+        "eventId": "210",
+        "imgLink": "https://s3.ap-northeast-2.amazonaws.com/img.the-relay/components/234/contents/210_image.png",
+        "isEdit": false,
+        "newImagePrev": null,
+        "newImageValue": null,
+        "index": 12
+      },
+      {
+        "code": "BN",
+        "brandName": "브렌우드",
+        "eventId": "344",
+        "imgLink": "https://s3.ap-northeast-2.amazonaws.com/img.the-relay/components/234/contents/344_image.png",
+        "isEdit": false,
+        "newImagePrev": null,
+        "newImageValue": null,
+        "index": 13
+      },
+      {
+        "code": "JC",
+        "brandName": "잭니클라우스",
+        "eventId": "409",
+        "imgLink": "https://s3.ap-northeast-2.amazonaws.com/img.the-relay/components/234/contents/409_image.png",
+        "isEdit": false,
+        "newImagePrev": null,
+        "newImageValue": null,
+        "index": 14
+      }
+    ],
+    "isNew": true
+  },
+  "data": null,
+  "createdAt": "2024-03-23T11:50:10",
+  "lastModifiedAt": "2024-03-23T11:50:10",
+  "contentsLastModifiedAt": "2024-07-22T16:09:18",
+  "contentsCount": 1
+}

@@ -1,0 +1,131 @@
+{
+  "componentId": 73,
+  "template": {
+    "id": 39,
+    "type": "HomeQuickBar",
+    "alias": "HomeQuickBar",
+    "url": "/test/HomeQuickBar.vue",
+    "version": "0.1"
+  },
+  "contents": {
+    "list": [
+      {
+        "contentsId": 573,
+        "text": "신상 전체보기",
+        "mobileText": "신상 전체보기",
+        "url": "https://orm.the-relay.kr/event/pl/215",
+        "img": "https://s3.ap-northeast-2.amazonaws.com/img.the-relay/components/73/contents/quickbar_73_573_image_2024-09-18_23_09_45_image.png"
+      },
+      {
+        "contentsId": 574,
+        "text": "여성 패션",
+        "mobileText": "여성 패션",
+        "url": "/product_list?cat=200000&order=latest&brand=&grade=&price=",
+        "img": "https://s3.ap-northeast-2.amazonaws.com/img.the-relay/components/73/contents/quickbar_73_574_image_2024-07-29_13_07_59_image.png"
+      },
+      {
+        "contentsId": 575,
+        "text": "남성 패션",
+        "mobileText": "남성 패션",
+        "url": "/product_list?cat=100000&order=latest&brand=&grade=&price=",
+        "img": "https://s3.ap-northeast-2.amazonaws.com/img.the-relay/components/73/contents/quickbar_73_575_image_2024-07-29_13_07_04_image.png"
+      },
+      {
+        "contentsId": 576,
+        "text": "골프 웨어",
+        "mobileText": "골프 웨어",
+        "url": "https://orm.the-relay.kr/event/pl/393",
+        "img": "https://s3.ap-northeast-2.amazonaws.com/img.the-relay/components/73/contents/quickbar_73_576_image_2024-07-29_10_07_01_image.png"
+      },
+      {
+        "contentsId": 577,
+        "text": "가방 신발",
+        "mobileText": "가방 신발",
+        "url": "/product_list?order=latest&cat=205000&grade=&type=",
+        "img": "https://s3.ap-northeast-2.amazonaws.com/img.the-relay/components/73/contents/quickbar_73_577_image_2024-07-29_10_07_05_image.png"
+      },
+      {
+        "contentsId": 578,
+        "text": "찐 구매 후기",
+        "mobileText": "찐 구매 후기",
+        "url": "https://orm.the-relay.kr/review_list/buy",
+        "img": "https://s3.ap-northeast-2.amazonaws.com/img.the-relay/components/73/contents/quickbar_73_578_image_2024-07-29_10_07_09_image.png"
+      },
+      {
+        "contentsId": 579,
+        "text": "판매하기",
+        "mobileText": "판매하기",
+        "url": "/sell",
+        "img": "https://s3.ap-northeast-2.amazonaws.com/img.the-relay/components/73/contents/quickbar_73_579_image_2024-07-29_10_07_14_image.png"
+      },
+      {
+        "contentsId": 580,
+        "text": "찐 판매 후기",
+        "mobileText": "찐 판매 후기",
+        "url": "https://orm.the-relay.kr/review_list/sell",
+        "img": "https://s3.ap-northeast-2.amazonaws.com/img.the-relay/components/73/contents/quickbar_73_580_image_2024-07-29_10_07_18_image.png"
+      },
+      {
+        "contentsId": 581,
+        "text": "럭키슈에뜨\n신상",
+        "mobileText": "럭키슈에뜨\n신상",
+        "url": "https://orm.the-relay.kr/event/pl/214",
+        "img": "https://s3.ap-northeast-2.amazonaws.com/img.the-relay/components/73/contents/quickbar_73_581_image_2024-07-29_10_07_39_image.png"
+      },
+      {
+        "contentsId": 582,
+        "text": "시리즈\n신상",
+        "mobileText": "시리즈\n신상",
+        "url": "https://orm.the-relay.kr/event/pl/213",
+        "img": "https://s3.ap-northeast-2.amazonaws.com/img.the-relay/components/73/contents/quickbar_73_582_image_2024-07-29_10_07_01_image.png"
+      },
+      {
+        "contentsId": 583,
+        "text": "헨리코튼\n신상",
+        "mobileText": "헨리코튼\n신상",
+        "url": "https://orm.the-relay.kr/event/pl/392",
+        "img": "https://s3.ap-northeast-2.amazonaws.com/img.the-relay/components/73/contents/quickbar_73_583_image_2024-07-29_10_07_06_image.png"
+      },
+      {
+        "contentsId": 584,
+        "text": "에피그램\n신상",
+        "mobileText": "에피그램\n신상",
+        "url": "https://orm.the-relay.kr/event/pl/332",
+        "img": "https://s3.ap-northeast-2.amazonaws.com/img.the-relay/components/73/contents/quickbar_73_584_image_2024-07-29_10_07_13_image.png"
+      },
+      {
+        "contentsId": 585,
+        "text": "커스텀멜로우\n신상",
+        "mobileText": "커스텀멜로우\n신상",
+        "url": "https://orm.the-relay.kr/event/pl/346",
+        "img": "https://s3.ap-northeast-2.amazonaws.com/img.the-relay/components/73/contents/quickbar_73_585_image_2024-07-29_10_07_18_image.png"
+      },
+      {
+        "contentsId": 586,
+        "text": "코오롱스포츠\n신상",
+        "mobileText": "코오롱스포츠\n신상",
+        "url": "https://orm.the-relay.kr/event/pl/212",
+        "img": "https://s3.ap-northeast-2.amazonaws.com/img.the-relay/components/73/contents/quickbar_73_586_image_2024-07-29_10_07_23_image.png"
+      },
+      {
+        "contentsId": 588,
+        "text": "슈콤마보니\n신상",
+        "mobileText": "슈콤마보니\n신상",
+        "url": "https://orm.the-relay.kr/event/pl/211",
+        "img": "https://s3.ap-northeast-2.amazonaws.com/img.the-relay/components/73/contents/quickbar_73_588_image_2024-07-29_10_07_27_image.png"
+      },
+      {
+        "contentsId": 589,
+        "text": "S급 리퍼브\n상품",
+        "mobileText": "S급 리퍼브\n상품",
+        "url": "https://orm.the-relay.kr/event/pl/448",
+        "img": "https://s3.ap-northeast-2.amazonaws.com/img.the-relay/components/73/contents/quickbar_73_589_image_2024-07-29_10_07_31_image.png"
+      }
+    ]
+  },
+  "data": null,
+  "createdAt": "2023-12-22T10:54:28",
+  "lastModifiedAt": "2023-12-22T10:54:29",
+  "contentsLastModifiedAt": "2024-09-18T23:23:17",
+  "contentsCount": 21
+}

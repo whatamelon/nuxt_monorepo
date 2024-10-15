@@ -1,0 +1,267 @@
+{
+  "componentId": 47,
+  "template": {
+    "id": 25,
+    "type": "BrandLittle",
+    "alias": "ResaleHomeNotice_BrandLittle",
+    "url": "/test/ResaleHomeNoticeBrandLittle.vue",
+    "version": "0.1"
+  },
+  "contents": {
+    "contentsId": 38,
+    "bgColor": "#222",
+    "tag": "판매 가능 조건",
+    "title": "아래 안내사항을 확인하고\n판매를 신청하세요!",
+    "conditionBadgeText": "판매 가능 조건",
+    "conditionList": ["정식 발매된 브랜드 제품", "제품 정보 라벨이 달려있는 제품", "오염이나 훼손이 없는 제품", "향수, 방충제 등의 향이 과하게 배어 있지 않은 제품", "과도한 수선이 없는 제품"],
+    "brandList": [
+      {
+        "isOpen": false,
+        "logoImg": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/brand_images/ks.png",
+        "brandName": "코오롱스포츠",
+        "categoryBadgeText": "가능품목",
+        "categoryBodyCode": "<p class='body-2-r text-white'>2019~2023년에 출시된</p>",
+        "categoryList": "다운(흰색 제외), 자켓, 베스트, 팬츠",
+        "rewardBadgeText": "보상가",
+        "rewardBody": "보상가는 출시연도, 품목별로 상이하며\n유동적으로 책정됩니다.",
+        "rewardCaption": "판매 신청 과정에서 품번을 입력하시면, 판매 가능\n여부와 정확한 보상가를 확인하실 수 있습니다."
+      },
+      {
+        "isOpen": false,
+        "logoImg": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/brand_images/lc.png",
+        "brandName": "럭키슈에뜨",
+        "categoryBadgeText": "가능품목",
+        "categoryBodyCode": "<p class='body-2-r text-white'>2019~2023년에 출시된</p>",
+        "categoryList": "코트, 자켓, 점퍼, 드레스, 점프수트, 블라우스, 스웨터, 가디건, 팬츠, 쇼츠, 스커트, 티셔츠",
+        "rewardBadgeText": "보상가",
+        "rewardBody": "보상가는 출시연도, 품목별로 상이하며\n유동적으로 책정됩니다.",
+        "rewardCaption": "판매 신청 과정에서 품번을 입력하시면, 판매 가능\n여부와 정확한 보상가를 확인하실 수 있습니다."
+      },
+      {
+        "isOpen": false,
+        "logoImg": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/brand_images/sr.png",
+        "brandName": "시리즈",
+        "categoryBadgeText": "가능품목",
+        "categoryBodyCode": "<p class='body-2-r text-white'>2019~2023년에 출시된<br/><span class='text-green-300'>신발, 악세서리를 제외</span>한 시리즈 및 시리즈 수입 브랜드 의류 전 품목</p>",
+        "categoryList": "",
+        "rewardBadgeText": "보상가",
+        "rewardBody": "보상가는 출시연도, 품목별로 상이하며\n유동적으로 책정됩니다.",
+        "rewardCaption": "판매 신청 과정에서 품번을 입력하시면, 판매 가능\n여부와 정확한 보상가를 확인하실 수 있습니다."
+      },
+      {
+        "isOpen": false,
+        "logoImg": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/brand_images/cm.png",
+        "brandName": "캠브리지멤버스",
+        "categoryBadgeText": "가능품목",
+        "categoryBodyCode": "<p class='body-2-r text-white'>2019~2023년에 출시된<br/><span class='text-green-300'>(수트)정장, 드레스셔츠, 티셔츠를 제외한</span><br/>캠브리지 멤버스 & 아놀 & 바잉콜렉션</p>",
+        "categoryList": "코트, 점퍼, 자켓, 가죽, 스웨터, 가디건, 베스트, 캐주얼 셔츠, 팬츠",
+        "rewardBadgeText": "보상가",
+        "rewardBody": "보상가는 출시연도, 품목별로 상이하며\n유동적으로 책정됩니다.",
+        "rewardCaption": "판매 신청 과정에서 품번을 입력하시면, 판매 가능\n여부와 정확한 보상가를 확인하실 수 있습니다."
+      },
+      {
+        "isOpen": false,
+        "logoImg": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/brand_images/rc.png",
+        "brandName": "래코드",
+        "categoryBadgeText": "가능품목",
+        "categoryBodyCode": "<p class='body-2-r text-white'>2019~2023년에 출시된</p>",
+        "categoryList": "코트, 드레스, 스커트, 바지, 티셔츠, 점퍼, 베스트, 재킷, 셔츠/블라우스, 스웨터",
+        "rewardBadgeText": "보상가",
+        "rewardBody": "보상가는 출시연도, 품목별로 상이하며\n유동적으로 책정됩니다.",
+        "rewardCaption": "판매 신청 과정에서 품번을 입력하시면, 판매 가능\n여부와 정확한 보상가를 확인하실 수 있습니다."
+      },
+      {
+        "isOpen": false,
+        "logoImg": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/brand_images/sb.png",
+        "brandName": "슈콤마보니",
+        "categoryBadgeText": "가능품목",
+        "categoryBodyCode": "<p class='body-2-r text-white'>2019~2023년에 출시된</p>",
+        "categoryList": "구두, 샌들, 부츠, 스니커즈",
+        "rewardBadgeText": "보상가",
+        "rewardBody": "보상가는 출시연도, 품목별로 상이하며\n유동적으로 책정됩니다.",
+        "rewardCaption": "판매 신청 과정에서 품번을 입력하시면, 판매 가능\n여부와 정확한 보상가를 확인하실 수 있습니다."
+      },
+      {
+        "isOpen": false,
+        "logoImg": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/brand_images/eg.png",
+        "brandName": "에피그램",
+        "categoryBadgeText": "가능품목",
+        "categoryBodyCode": "<p class='body-2-r text-white'>2019~2023년에 출시된<br/><span class='text-green-300'>액세서리, 신발, 라이프스타일 소품 제외</span>한 의류 전 품목</p>",
+        "categoryList": "",
+        "rewardBadgeText": "보상가",
+        "rewardBody": "보상가는 출시연도, 품목별로 상이하며\n유동적으로 책정됩니다.",
+        "rewardCaption": "판매 신청 과정에서 품번을 입력하시면, 판매 가능\n여부와 정확한 보상가를 확인하실 수 있습니다."
+      },
+      {
+        "isOpen": false,
+        "logoImg": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/brand_images/bd.png",
+        "brandName": "볼디스트",
+        "categoryBadgeText": "가능품목",
+        "categoryBodyCode": "<p class='body-2-r text-white'>2020~2023년에 출시된<br/><span class='text-green-300'>잡화, 신발 제외</span>한 의류 전 품목 (베이스레이어 제외)</p>",
+        "categoryList": "재킷, 베스트, 셔츠, 티셔츠, 바지, 점퍼",
+        "rewardBadgeText": "보상가",
+        "rewardBody": "보상가는 출시연도, 품목별로 상이하며\n유동적으로 책정됩니다.",
+        "rewardCaption": "판매 신청 과정에서 품번을 입력하시면, 판매 가능\n여부와 정확한 보상가를 확인하실 수 있습니다."
+      },
+      {
+        "isOpen": false,
+        "logoImg": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/brand_images/cr.png",
+        "brandName": "쿠론",
+        "categoryBadgeText": "가능품목",
+        "categoryBodyCode": "<p class='body-2-r text-white'>2019~2023년에 출시된 <span class='text-green-300'>가방 전제품 (지갑, 소품 제외)</span></p>",
+        "categoryList": "백팩, 클러치, 크로스, 숄더, 토트, 마이크로백, 캐리어",
+        "rewardBadgeText": "보상가",
+        "rewardBody": "보상가는 출시연도, 품목별로 상이하며\n유동적으로 책정됩니다.",
+        "rewardCaption": "판매 신청 과정에서 품번을 입력하시면, 판매 가능\n여부와 정확한 보상가를 확인하실 수 있습니다."
+      },
+      {
+        "isOpen": false,
+        "logoImg": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/brand_images/ae.png",
+        "brandName": "아카이브앱크",
+        "categoryBadgeText": "가능품목",
+        "categoryBodyCode": "<p class='body-2-r text-white'>2019~2022년에 출시된 <span class='text-green-300'>신발, 가방 전제품(의류, 에코백, 소품류는 제외)</span></p>",
+        "categoryList": "단화, 드레스화, 슬리퍼, 샌들, 앵클부츠, 롱부츠, 운동화, 백팩, 토트, 크로스, 숄더",
+        "rewardBadgeText": "보상가",
+        "rewardBody": "보상가는 출시연도, 품목별로 상이하며\n유동적으로 책정됩니다.",
+        "rewardCaption": "판매 신청 과정에서 품번을 입력하시면, 판매 가능\n여부와 정확한 보상가를 확인하실 수 있습니다."
+      },
+      {
+        "isOpen": false,
+        "logoImg": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/brand_images/cw.png",
+        "brandName": "커스텀멜로우",
+        "categoryBadgeText": "가능품목",
+        "categoryBodyCode": "<p class='body-2-r text-white'>2019~2023년에 출시된 <span class='text-green-300'>(수트)정장을 제외한 의류 전제품</span></p>",
+        "categoryList": "코트, 점퍼, 재킷, 베스트, 스웨터, 셔츠, 티셔츠, 바지",
+        "rewardBadgeText": "보상가",
+        "rewardBody": "보상가는 출시연도, 품목별로 상이하며\n유동적으로 책정됩니다.",
+        "rewardCaption": "판매 신청 과정에서 품번을 입력하시면, 판매 가능\n여부와 정확한 보상가를 확인하실 수 있습니다."
+      },
+      {
+        "isOpen": false,
+        "logoImg": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/brand_images/fk.png",
+        "brandName": "프리커",
+        "categoryBadgeText": "가능품목",
+        "categoryBodyCode": "<p class='body-2-r text-white'>2023년에 출시된 <span class='text-green-300'>의류 전제품과 가방</span></p>",
+        "categoryList": "점퍼, 재킷, 베스트, 스웨터, 셔츠, 티셔츠, 가방",
+        "rewardBadgeText": "보상가",
+        "rewardBody": "보상가는 출시연도, 품목별로 상이하며\n유동적으로 책정됩니다.",
+        "rewardCaption": "판매 신청 과정에서 품번을 입력하시면, 판매 가능\n여부와 정확한 보상가를 확인하실 수 있습니다."
+      },
+      {
+        "isOpen": false,
+        "logoImg": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/brand_images/bw.png",
+        "brandName": "브렌우드",
+        "categoryBadgeText": "가능품목",
+        "categoryBodyCode": "<p class='body-2-r text-white'>2019~2023년에 출시된 <span class='text-green-300'>(수트)정장, 드레스셔츠를 제외한 의류 전제품</span></p>",
+        "categoryList": "코트, 점퍼, 재킷, 베스트, 스웨터, 캐주얼셔츠, 티셔츠, 바지",
+        "rewardBadgeText": "보상가",
+        "rewardBody": "보상가는 출시연도, 품목별로 상이하며\n유동적으로 책정됩니다.",
+        "rewardCaption": "판매 신청 과정에서 품번을 입력하시면, 판매 가능\n여부와 정확한 보상가를 확인하실 수 있습니다."
+      },
+      {
+        "isOpen": false,
+        "logoImg": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/brand_images/wa.png",
+        "brandName": "왁",
+        "categoryBadgeText": "가능품목",
+        "categoryBodyCode": "<p class='body-2-r text-white'>2020~2023년에 출시된 <span class='text-green-300'>의류 전제품과 가방, 모자, 신발, 벨트</span></p>",
+        "categoryList": "점퍼, 베스트, 티셔츠, 스웨터, 큐롯, 바지, 레인웨어, 가방, 모자, 신발, 벨트",
+        "rewardBadgeText": "보상가",
+        "rewardBody": "보상가는 출시연도, 품목별로 상이하며\n유동적으로 책정됩니다.",
+        "rewardCaption": "판매 신청 과정에서 품번을 입력하시면, 판매 가능\n여부와 정확한 보상가를 확인하실 수 있습니다."
+      },
+      {
+        "isOpen": false,
+        "logoImg": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/brand_images/ed.png",
+        "brandName": "엘로드",
+        "categoryBadgeText": "가능품목",
+        "categoryBodyCode": "<p class='body-2-r text-white'>2019~2023년에 출시된 <span class='text-green-300'>의류 전제품과 가방, 모자, 신발, 장갑</span></p>",
+        "categoryList": "점퍼, 베스트, 티셔츠, 스웨터, 큐롯, 바지, 레인웨어, 가방, 모자, 신발, 장갑",
+        "rewardBadgeText": "보상가",
+        "rewardBody": "보상가는 출시연도, 품목별로 상이하며\n유동적으로 책정됩니다.",
+        "rewardCaption": "판매 신청 과정에서 품번을 입력하시면, 판매 가능\n여부와 정확한 보상가를 확인하실 수 있습니다."
+      },
+      {
+        "isOpen": false,
+        "logoImg": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/brand_images/ap.png",
+        "brandName": "아모프레",
+        "categoryBadgeText": "가능품목",
+        "categoryBodyCode": "<p class='body-2-r text-white'>2022~2023년에 출시된 <span class='text-green-300'>티셔츠, 내의를 제외한 의류 전제품</span></p>",
+        "categoryList": "코트, 점퍼, 재킷, 베스트, 스웨터, 셔츠, 바지",
+        "rewardBadgeText": "보상가",
+        "rewardBody": "보상가는 출시연도, 품목별로 상이하며\n유동적으로 책정됩니다.",
+        "rewardCaption": "판매 신청 과정에서 품번을 입력하시면, 판매 가능\n여부와 정확한 보상가를 확인하실 수 있습니다."
+      },
+      {
+        "isOpen": false,
+        "logoImg": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/brand_images/le.png",
+        "brandName": "르캐시미어",
+        "categoryBadgeText": "가능품목",
+        "categoryBodyCode": "<p class='body-2-r text-white'>2023년에 출시된 <span class='text-green-300'>의류, 악세사리 전제품</span></p>",
+        "categoryList": "코트, 점퍼, 자켓, 베스트, 드레스, 스웨터, 셔츠, 블라우스, 스커트, 바지, 티셔츠, 모자, 가방, 기타 방한용품",
+        "rewardBadgeText": "보상가",
+        "rewardBody": "보상가는 출시연도, 품목별로 상이하며\n유동적으로 책정됩니다.",
+        "rewardCaption": "판매 신청 과정에서 품번을 입력하시면, 판매 가능\n여부와 정확한 보상가를 확인하실 수 있습니다."
+      },
+      {
+        "isOpen": false,
+        "logoImg": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/brand_images/hc.png",
+        "brandName": "헨리코튼",
+        "categoryBadgeText": "가능품목",
+        "categoryBodyCode": "<p class='body-2-r text-white'>2019~2023년에 출시된 <span class='text-green-300'>의류 전제품</span></p>",
+        "categoryList": "코트, 점퍼, 재킷, 베스트, 스웨터, 셔츠, 티셔츠, 바지",
+        "rewardBadgeText": "보상가",
+        "rewardBody": "보상가는 출시연도, 품목별로 상이하며\n유동적으로 책정됩니다.",
+        "rewardCaption": "판매 신청 과정에서 품번을 입력하시면, 판매 가능\n여부와 정확한 보상가를 확인하실 수 있습니다."
+      },
+      {
+        "isOpen": false,
+        "logoImg": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/brand_images/jn.png",
+        "brandName": "잭니클라우스",
+        "categoryBadgeText": "가능품목",
+        "categoryBodyCode": "<p class='body-2-r text-white'>2019~2023년에 출시된 <span class='text-green-300'>의류 전제품과 가방, 모자, 신발, 장갑, 벨트</span></p>",
+        "categoryList": "점퍼, 베스트, 스웨터, 셔츠, 티셔츠, 큐롯, 바지, 가방, 모자, 신발, 장갑, 벨트",
+        "rewardBadgeText": "보상가",
+        "rewardBody": "보상가는 출시연도, 품목별로 상이하며\n유동적으로 책정됩니다.",
+        "rewardCaption": "판매 신청 과정에서 품번을 입력하시면, 판매 가능\n여부와 정확한 보상가를 확인하실 수 있습니다."
+      },
+      {
+        "isOpen": false,
+        "logoImg": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/brand_images/gb.png",
+        "brandName": "골든베어",
+        "categoryBadgeText": "가능품목",
+        "categoryBodyCode": "<p class='body-2-r text-white'>2023년에 출시된 <span class='text-green-300'>의류 전제품과 가방, 모자, 신발, 장갑, 벨트</span></p>",
+        "categoryList": "점퍼, 베스트, 스웨터, 셔츠, 티셔츠, 큐롯, 바지, 가방, 모자, 신발, 장갑, 벨트",
+        "rewardBadgeText": "보상가",
+        "rewardBody": "보상가는 출시연도, 품목별로 상이하며\n유동적으로 책정됩니다.",
+        "rewardCaption": "판매 신청 과정에서 품번을 입력하시면, 판매 가능\n여부와 정확한 보상가를 확인하실 수 있습니다."
+      },
+      {
+        "isOpen": false,
+        "logoImg": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/brand_images/lt.png",
+        "brandName": "엘텍스",
+        "categoryBadgeText": "가능품목",
+        "categoryBodyCode": "<p class='body-2-r text-white'>2020~2023년에 출시된 <span class='text-green-300'>의류 전제품과 가방</span></p>",
+        "categoryList": "점퍼, 재킷, 베스트, 셔츠, 티셔츠, 바지, 가방",
+        "rewardBadgeText": "보상가",
+        "rewardBody": "보상가는 출시연도, 품목별로 상이하며\n유동적으로 책정됩니다.",
+        "rewardCaption": "판매 신청 과정에서 품번을 입력하시면, 판매 가능\n여부와 정확한 보상가를 확인하실 수 있습니다."
+      },
+      {
+        "isOpen": false,
+        "logoImg": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/brand_images/wm.png",
+        "brandName": "웨더몬스터",
+        "categoryBadgeText": "가능품목",
+        "categoryBodyCode": "<p class='body-2-r text-white'>2022~2023년에 출시된 <span class='text-green-300'>의류 전제품</span></p>",
+        "categoryList": "점퍼, 재킷, 베스트, 셔츠, 티셔츠, 바지",
+        "rewardBadgeText": "보상가",
+        "rewardBody": "보상가는 출시연도, 품목별로 상이하며\n유동적으로 책정됩니다.",
+        "rewardCaption": "판매 신청 과정에서 품번을 입력하시면, 판매 가능\n여부와 정확한 보상가를 확인하실 수 있습니다."
+      }
+    ]
+  },
+  "data": null,
+  "createdAt": "2023-10-26T16:10:08",
+  "lastModifiedAt": "2023-10-26T16:10:08",
+  "contentsLastModifiedAt": "2024-02-16T13:40:52",
+  "contentsCount": 1
+}

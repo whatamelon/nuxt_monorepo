@@ -1,0 +1,22 @@
+{
+  "componentId": 50,
+  "template": {
+    "id": 28,
+    "type": "ResaleHomeOutro",
+    "alias": "ResaleHomeOutro",
+    "url": "/test/ResaleHomeOutro.vue",
+    "version": "0.1"
+  },
+  "contents": {
+    "contentsId": 41,
+    "title": "지구를 위한\nOLO 릴레이마켓의\n레이스에 함께해 주세요!",
+    "bgImgUrl": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/outro.png",
+    "position": "middle",
+    "isMultiple": true
+  },
+  "data": null,
+  "createdAt": "2023-10-26T16:10:08",
+  "lastModifiedAt": "2023-10-26T16:10:08",
+  "contentsLastModifiedAt": "2024-02-16T13:40:52",
+  "contentsCount": 1
+}

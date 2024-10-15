@@ -1,0 +1,279 @@
+{
+  "componentId": 34,
+  "template": {
+    "id": 20,
+    "type": "ResaleHomeIntro",
+    "alias": "ResaleHomeIntro",
+    "url": "/test/ResaleHomeIntro.vue",
+    "version": "0.1"
+  },
+  "contents": {
+    "contentsId": 25,
+    "tag": "OLO 릴레이마켓",
+    "tagColor": "#01A475",
+    "title": "내 옷장 속 코오롱 브랜드\n제품을 판매해 보세요.",
+    "body": "코오롱몰 포인트로 즉시 지급 (평균 4일 소요)@코오롱몰에서 새상품 구매시, 현금처럼 사용 가능@판매 조건에 맞지 않아도 100% 무료 반송",
+    "titleColor": "#003026",
+    "bodyColor": "#003026",
+    "sellPreview": {
+      "title": "판매 보상포인트 미리보기",
+      "previewItems": [
+        {
+          "index": 1,
+          "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/sell_preview/img_1.png",
+          "points": "285,000P",
+          "pointsText": "보상",
+          "brand": "코오롱스포츠",
+          "name": "여성 안타티카 롱 다운 #안타티카",
+          "year": "2022"
+        },
+        {
+          "index": 2,
+          "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/sell_preview/img_2.png",
+          "points": "50,400P",
+          "pointsText": "보상",
+          "brand": "코오롱스포츠",
+          "name": "남성 방수재킷",
+          "year": "2022"
+        },
+        {
+          "index": 3,
+          "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/sell_preview/img_3.png",
+          "points": "126,000P",
+          "pointsText": "보상",
+          "brand": "럭키슈에뜨",
+          "name": "Knit Tape Saillor Pleated Dress",
+          "year": "2021"
+        },
+        {
+          "index": 4,
+          "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/sell_preview/img_4.png",
+          "points": "126,000P",
+          "pointsText": "보상",
+          "brand": "럭키슈에뜨",
+          "name": "Collarless Tweed Jacket",
+          "year": "2021"
+        },
+        {
+          "index": 5,
+          "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/sell_preview/img_5.png",
+          "points": "27,600P",
+          "pointsText": "보상",
+          "brand": "럭키슈에뜨",
+          "name": "Back Palm Print Short-Sleeved T-shirt",
+          "year": "2023"
+        },
+        {
+          "index": 6,
+          "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/sell_preview/img_6.png",
+          "points": "500,400P",
+          "pointsText": "보상",
+          "brand": "시리즈",
+          "name": "라파예트 다운 가죽 자켓",
+          "year": "2022"
+        },
+        {
+          "index": 7,
+          "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/sell_preview/img_7.png",
+          "points": "140,500P",
+          "pointsText": "보상",
+          "brand": "시리즈",
+          "name": "카본코팅 프리미엄LTD 옵스쿠라",
+          "year": "2022"
+        },
+        {
+          "index": 8,
+          "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/sell_preview/img_8.png",
+          "points": "43,000P",
+          "pointsText": "보상",
+          "brand": "시리즈",
+          "name": "BAGGY 스트링 연청 릴렉스 데님 팬츠",
+          "year": "2023"
+        },
+        {
+          "index": 9,
+          "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/sell_preview/img_9.png",
+          "points": "172,500P",
+          "pointsText": "보상",
+          "brand": "헨리코튼",
+          "name": "[Fly Fishing Club] Waxed cotton 2 in 1 jumper",
+          "year": "2023"
+        },
+        {
+          "index": 10,
+          "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/sell_preview/img_10.png",
+          "points": "41,400P",
+          "pointsText": "보상",
+          "brand": "헨리코튼",
+          "name": "젠틀(Gentle) 가디건",
+          "year": "2022"
+        },
+        {
+          "index": 11,
+          "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/sell_preview/img_11.png",
+          "points": "43,800P",
+          "pointsText": "보상",
+          "brand": "에피그램",
+          "name": "에어울 카라 스웨터",
+          "year": "2023"
+        },
+        {
+          "index": 12,
+          "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/sell_preview/img_12.png",
+          "points": "155,700P",
+          "pointsText": "보상",
+          "brand": "커스텀멜로우",
+          "name": "[beppetex] single mac coat",
+          "year": "2023"
+        },
+        {
+          "index": 13,
+          "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/sell_preview/img_13.png",
+          "points": "71,600P",
+          "pointsText": "보상",
+          "brand": "슈콤마보니",
+          "name": "Polygon square heel slingback",
+          "year": "2023"
+        },
+        {
+          "index": 14,
+          "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/sell_preview/img_14.png",
+          "points": "117,000P",
+          "pointsText": "보상",
+          "brand": "쿠론",
+          "name": "오린(Orin) 토트 25",
+          "year": "2023"
+        },
+        {
+          "index": 15,
+          "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/sell_preview/img_15.png",
+          "points": "46,000P",
+          "pointsText": "보상",
+          "brand": "왁",
+          "name": "여성 에리배색 반팔 폴로 티셔츠",
+          "year": "2023"
+        },
+        {
+          "index": 16,
+          "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/sell_preview/img_16.png",
+          "points": "72,500P",
+          "pointsText": "보상",
+          "brand": "왁",
+          "name": "여성 하이웨이스트 풀플리츠 큐롯스커트",
+          "year": "2023"
+        }
+      ]
+    },
+    "isBrandList": "true",
+    "brandList": [
+      {
+        "brandImgUrl": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/brand_images/ks.png",
+        "brandName": "코오롱스포츠"
+      },
+      {
+        "brandImgUrl": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/brand_images/lc.png",
+        "brandName": "럭키슈에뜨"
+      },
+      {
+        "brandImgUrl": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/brand_images/sr.png",
+        "brandName": "시리즈"
+      },
+      {
+        "brandImgUrl": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/brand_images/cm.png",
+        "brandName": "캠브리지멤버스"
+      },
+      {
+        "brandImgUrl": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/brand_images/rc.png",
+        "brandName": "래코드"
+      },
+      {
+        "brandImgUrl": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/brand_images/sb.png",
+        "brandName": "슈콤마보니"
+      },
+      {
+        "brandImgUrl": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/brand_images/eg.png",
+        "brandName": "에피그램"
+      },
+      {
+        "brandImgUrl": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/brand_images/bd.png",
+        "brandName": "볼디스트"
+      },
+      {
+        "brandImgUrl": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/brand_images/cr.png",
+        "brandName": "쿠론"
+      },
+      {
+        "brandImgUrl": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/brand_images/ae.png",
+        "brandName": "아카이브앱크"
+      },
+      {
+        "brandImgUrl": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/brand_images/cw.png",
+        "brandName": "커스텀멜로우"
+      },
+      {
+        "brandImgUrl": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/brand_images/fk.png",
+        "brandName": "프리커"
+      },
+      {
+        "brandImgUrl": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/brand_images/bw.png",
+        "brandName": "브렌우드"
+      },
+      {
+        "brandImgUrl": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/brand_images/wa.png",
+        "brandName": "왁"
+      },
+      {
+        "brandImgUrl": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/brand_images/ed.png",
+        "brandName": "엘로드"
+      },
+      {
+        "brandImgUrl": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/brand_images/ap.png",
+        "brandName": "아모프레"
+      },
+      {
+        "brandImgUrl": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/brand_images/le.png",
+        "brandName": "르캐시미어"
+      },
+      {
+        "brandImgUrl": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/brand_images/hc.png",
+        "brandName": "헨리코튼"
+      },
+      {
+        "brandImgUrl": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/brand_images/jn.png",
+        "brandName": "잭니클라우스"
+      },
+      {
+        "brandImgUrl": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/brand_images/gb.png",
+        "brandName": "골든베어"
+      },
+      {
+        "brandImgUrl": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/brand_images/lt.png",
+        "brandName": "엘텍스"
+      },
+      {
+        "brandImgUrl": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/brand_images/wm.png",
+        "brandName": "웨더몬스터"
+      }
+    ],
+    "brandListBgColor": "#003026",
+    "tabList": [
+      {
+        "name": "판매소개",
+        "code": "resaleIntroSection"
+      },
+      {
+        "name": "신청과정",
+        "code": "resaleUsageSection"
+      },
+      {
+        "name": "판매 가능 조건",
+        "code": "resaleNoticeSection"
+      }
+    ]
+  },
+  "data": null,
+  "createdAt": "2023-10-26T16:10:08",
+  "lastModifiedAt": "2023-10-26T16:10:08",
+  "contentsLastModifiedAt": "2024-02-16T13:40:52",
+  "contentsCount": 1
+}

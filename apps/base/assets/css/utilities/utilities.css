@@ -1,0 +1,16 @@
+@layer utilities {
+  /* 가로 스크롤 안보이게 */
+  .no-scroll {
+    -ms-overflow-style: none; /* IE, Edge */
+    scrollbar-width: none; /* Firefox */
+  }
+  .no-scroll::-webkit-scrollbar {
+    display: none; /* Chrome, Safari, Opera */
+  }
+  .ios-safe-area {
+    padding-bottom: calc(env(safe-area-inset-bottom) + 10px);
+  }
+  .ios-safe-area-margin-bottom {
+    margin-bottom: calc(env(safe-area-inset-bottom) + 10px);
+  }
+}

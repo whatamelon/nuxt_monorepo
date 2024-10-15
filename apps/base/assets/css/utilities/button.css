@@ -1,0 +1,136 @@
+/* 버튼 디자인 컴포넌트 */
+/* line */
+
+@layer components {
+  /* h24 */
+  .btn-h24-r0-line-p8 {
+    @apply label-2-r flex h-6 items-center justify-center border border-black px-2 text-black;
+  }
+  .btn-h24-r0-line-p8-gray {
+    @apply label-2-r flex h-6 items-center justify-center border border-rgray-200 px-2 text-black;
+  }
+  .btn-h24-r0-fill-p8 {
+    @apply body-1-r flex h-6 items-center justify-center gap-0.5 bg-black px-2 py-0.5 text-white;
+  }
+  .btn-h24-r0-fill-p8-gray {
+    @apply body-1-r flex h-6 items-center justify-center gap-0.5 bg-rgray-100 px-2 py-0.5 text-black;
+  }
+  /* h32 */
+  .btn-h32-r0-line-p16 {
+    @apply label-2-r flex h-8 items-center justify-center border border-black px-4 py-1 text-black;
+  }
+  .btn-h32-r0-line-p16-gray {
+    @apply label-2-r flex h-8 items-center justify-center border border-rgray-200 px-4 py-1 text-black;
+  }
+  .btn-h32-r0-fill-p16 {
+    @apply label-2-r flex h-8 items-center justify-center bg-black px-4 py-1 text-white;
+  }
+  .btn-h32-r0-fill-p16-gray {
+    @apply label-2-r flex h-8 items-center justify-center bg-rgray-100 px-4 py-1 text-black;
+  }
+  /* h32 rounded */
+  .btn-h32-r16-line-p16 {
+    @apply body-1-r flex h-8 items-center justify-center gap-1 rounded-2xl border border-black px-4 py-1 text-black;
+  }
+  .btn-h32-r16-line-p16-gray {
+    @apply body-1-r flex h-8 items-center justify-center gap-1 rounded-2xl border border-rgray-100 px-4 py-1 text-black;
+  }
+  .btn-h32-r16-fill-p16 {
+    @apply body-1-r flex h-8 items-center justify-center gap-1 rounded-2xl bg-black px-4 py-1 text-white;
+  }
+  .btn-h32-r16-fill-p16-white {
+    @apply body-1-r flex h-8 items-center justify-center gap-1 rounded-2xl bg-white px-4 py-1 text-black;
+  }
+  .btn-h32-r16-fill-p16-gray {
+    @apply body-1-r flex h-8 items-center justify-center gap-1 rounded-2xl bg-rgray-50 px-4 py-1 text-black;
+  }
+  /* h34 rounded */
+  .btn-h34-r17-line-p16 {
+    @apply caption-2-b flex h-[34px] items-center justify-center gap-0.5 rounded-[17px] border border-black px-4 py-1 text-black;
+  }
+  .btn-h34-r17-line-p16-gray {
+    @apply caption-2-b flex h-[34px] items-center justify-center gap-0.5 rounded-[17px] border border-rgray-100 px-4 py-1 text-black;
+  }
+  .btn-h34-r17-fill-p16 {
+    @apply caption-2-b flex h-[34px] items-center justify-center gap-0.5 rounded-[17px] bg-black px-4 py-1 text-white;
+  }
+  .btn-h34-r17-fill-p16-white {
+    @apply caption-2-b flex h-[34px] items-center justify-center gap-0.5 rounded-[17px] bg-white px-4 py-1 text-black;
+  }
+  .btn-h34-r17-fill-p16-gray {
+    @apply caption-2-b flex h-[34px] items-center justify-center gap-0.5 rounded-[17px] bg-rgray-50 px-4 py-1 text-black;
+  }
+  /* h40 */
+  .btn-h40-r0-line-p24 {
+    @apply subhead-2-b flex h-10 items-center justify-center border border-black px-6 py-1 text-black;
+  }
+  .btn-h40-r0-line-p24-gray {
+    @apply subhead-2-b flex h-10 items-center justify-center border border-rgray-100 px-6 py-1 text-black;
+  }
+  .btn-h40-r0-fill-p24 {
+    @apply subhead-2-b flex h-10 items-center justify-center gap-1 border bg-black px-6 py-1 text-white;
+  }
+  /* h48 rounded */
+  .btn-h48-r24-line-p60 {
+    @apply subhead-3-b flex h-12 items-center justify-center gap-1 rounded-4xl border border-black px-15 py-1 text-black;
+  }
+  .btn-h48-r24-fill-p40 {
+    @apply subhead-3-b flex h-12 items-center justify-center gap-1 rounded-4xl bg-black px-10 py-1 text-white;
+  }
+  .btn-h48-r24-fill-p40-gray {
+    @apply subhead-3-b flex h-12 items-center justify-center gap-1 rounded-4xl bg-rgray-50 px-10 py-1 text-black;
+  }
+  .btn-h48-r24-fill-p40-white {
+    @apply subhead-3-b flex h-12 items-center justify-center gap-1 rounded-4xl bg-white px-10 py-1 text-black;
+  }
+  /* h48 */
+  .btn-h48-r0-fill-wfull {
+    @apply subhead-2-b flex h-12 items-center justify-center gap-1 bg-black px-6 py-1 text-white;
+  }
+  .btn-h48-r0-fill-wfull-gray {
+    @apply subhead-2-b flex h-12 items-center justify-center gap-1 bg-rgray-50 px-6 py-1 text-black;
+  }
+  /* h52 */
+  .btn-h52-r0-line-wfull {
+    @apply subhead-2-b flex h-13 w-full items-center justify-center gap-0.5 border border-black px-6 py-1;
+  }
+  .btn-h52-r0-line-wfull-gray {
+    @apply subhead-2-b flex h-13 w-full items-center justify-center gap-0.5 border border-gray-100 px-6 py-1;
+  }
+  .btn-h52-r0-line-wfull-gray200 {
+    @apply subhead-2-b flex h-13 w-full items-center justify-center gap-0.5 border border-gray-200 px-6 py-1;
+  }
+  .btn-h52-r0-fill-p24 {
+    @apply subhead-2-b flex h-13 items-center justify-center gap-1 bg-black px-6 py-1 text-white;
+  }
+  .btn-h52-r0-fill-wfull {
+    @apply subhead-2-b flex h-13 w-full items-center justify-center gap-1 bg-black px-3 py-1 text-white;
+  }
+  /* h56 rounded */
+  .btn-h56-r28-fill-wfull {
+    @apply subhead-3-b flex h-14 w-full items-center justify-center gap-1 rounded-3.5xl bg-black px-3 py-1 text-white;
+  }
+  .btn-h56-r28-fill-p60 {
+    @apply subhead-3-b flex h-14 items-center justify-center gap-1 rounded-3.5xl bg-black px-3 py-1 text-white;
+  }
+  .btn-h56-r28-line-wfull {
+    @apply subhead-3-b flex h-14 w-full items-center justify-center gap-1 rounded-3.5xl border border-black px-3 py-1 text-black;
+  }
+  /* h60 rounded */
+  .btn-h60-r30-fill-wfull {
+    @apply subhead-3-b flex h-15 w-full items-center justify-center gap-1 rounded-4xl bg-black px-3 py-1 text-white;
+  }
+
+  /* ?? */
+  .btn-h56-r0-line-wfull {
+    @apply h-14 w-full rounded-none border border-solid;
+  }
+
+  /* fill */
+  .btn-h64-r99-fill-wfull {
+    @apply subhead-3-b h-16 w-full rounded-full;
+  }
+  .btn-h48-r99-fill-wfull {
+    @apply subhead-2-b h-12 w-full rounded-full;
+  }
+}

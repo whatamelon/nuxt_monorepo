@@ -1,0 +1,81 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+@import './utilities/button.css';
+@import './utilities/badge.css';
+@import './utilities/text.css';
+@import './utilities/utilities.css';
+
+html {
+  /* 전역 폰트 설정 : Pretendard */
+  font-family: Pretendard;
+  background-color: white;
+  /* overflow: scroll; 
+   -webkit-overflow-scrolling: touch; */
+
+  /* cursor: pointer 일 때, highlight 방지 */
+  /* -webkit-user-select: none; 
+    -moz-user-select: none; 
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none; */
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* All your tailwind definitions with @apply rules are here */
+:root {
+  color-scheme: light only;
+}
+
+input {
+  background-color: #fff;
+  color: #222;
+  border-radius: 0;
+}
+
+body {
+  touch-action: pan-x pan-y;
+}
+
+/* If the user prefers dark mode, 
+we of course apply color-scheme: dark, as usual */
+@media (prefers-color-scheme: dark) {
+  html {
+    color-scheme: light;
+  }
+}
+
+/* If the user prefers light mode, 
+  we still enforce color-scheme: dark, despite the user preference */
+@media (prefers-color-scheme: light) {
+  html {
+    color-scheme: light;
+  }
+}
+
+a {
+  /* a tag highlight 제거 */
+  text-decoration: none;
+}
+
+input,
+textarea {
+  /* input tag outline 제거 */
+  @apply appearance-none outline-none;
+}
+
+/* input number arrow 안보이게 */
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type='number'] {
+  -moz-appearance: textfield;
+}
+
+/* import는 항상 맨 밑에 */

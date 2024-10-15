@@ -1,0 +1,60 @@
+@layer components {
+  .badge-h18-r0-fill-p4-black {
+    @apply label-2-r h-[18px] w-fit bg-black px-1 text-white;
+  }
+  .badge-h18-r0-fill-p4-gray {
+    @apply label-2-r h-[18px] w-fit bg-rgray-100 px-1 text-rgray-600;
+  }
+  .badge-h18-r0-fill-p4-black-bold {
+    @apply caption-2-b h-[18px] w-fit bg-black px-1 text-white;
+  }
+  .badge-h18-r0-fill-p4-gray-bold {
+    @apply caption-2-b h-[18px] w-fit bg-rgray-100 px-1 text-black;
+  }
+
+  .badge-h18-r0-line-p4 {
+    @apply label-2-r w-fit border border-black px-1 text-black;
+  }
+
+  .badge-h22-r0-fill-p8-black {
+    @apply caption-2-b h-[22px] w-fit bg-black px-2 py-0.5 text-white;
+  }
+  .badge-h22-r0-fill-p8-gray {
+    @apply caption-2-b h-[22px] w-fit bg-rgray-100 px-2 py-0.5 text-rgray-600;
+  }
+  .badge-h22-r0-fill-p8-white {
+    @apply caption-2-b h-[22px] w-fit bg-white px-2 py-0.5 text-black;
+  }
+  .badge-h22-r0-fill-p8-green {
+    @apply caption-2-b h-[22px] w-fit bg-caribbean-green-200 px-2 py-0.5 text-caribbean-green-950;
+  }
+
+  .badge-h24-r0-fill-p6-gray {
+    @apply body-1-r h-[24px] w-fit bg-rgray-50 px-1.5 text-black;
+  }
+
+  .badge-h28-r0-fill-p12-black {
+    @apply subhead-2-b flex h-7 w-fit gap-1 bg-black px-3 py-1 text-white;
+  }
+  .badge-h28-r0-fill-p12-gray {
+    @apply subhead-2-b flex h-7 w-fit gap-1 bg-rgray-100 px-3 py-1 text-rgray-600;
+  }
+
+  .badge-h22-r11-fill-p8-black {
+    @apply caption-2-b h-[22px] w-fit rounded-full bg-black px-2 py-0.5 text-white;
+  }
+  .badge-h22-r11-fill-p8-green {
+    @apply caption-2-b h-[22px] w-fit rounded-full bg-caribbean-green-200 px-2 py-0.5 text-caribbean-green-950;
+  }
+
+  .badge-h22-r11-line-p8 {
+    @apply subhead-2-b flex w-fit items-center justify-center rounded-full border border-black px-2 py-0.5 text-black;
+  }
+  .badge-h22-r11-line-p8-green {
+    @apply subhead-2-b w-fit rounded-full border border-green-300 px-2 py-0.5 text-green-300;
+  }
+
+  .badge-h18-r9-line-p8 {
+    @apply caption-1-b flex h-[18px] w-fit items-center justify-center rounded-full bg-caribbean-green-200 px-1.5 text-caribbean-green-950;
+  }
+}

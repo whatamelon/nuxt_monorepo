@@ -1,0 +1,95 @@
+{
+  "usedFilter": [
+    { "code": "cat", "name": "카테고리", "selectMode": "single" },
+    { "code": "brand", "name": "브랜드", "selectMode": "multi" },
+    { "code": "grade", "name": "등급", "selectMode": "multi" },
+    { "code": "season", "name": "계절", "selectMode": "multi" },
+    { "code": "type", "name": "유형", "selectMode": "multi" },
+    { "code": "price", "name": "가격", "selectMode": "single" }
+  ],
+  "cat": {
+    "list": [
+      {
+        "name": "여성",
+        "code": "20",
+        "cat2List": [
+          { "name": "전체", "code": "00" },
+          { "name": "아우터", "code": "10" },
+          { "name": "상의", "code": "20" },
+          { "name": "하의", "code": "30" },
+          { "name": "원피스", "code": "40" },
+          { "name": "잡화", "code": "50" }
+        ]
+      },
+      {
+        "name": "남성",
+        "code": "10",
+        "cat2List": [
+          { "name": "전체", "code": "00" },
+          { "name": "아우터", "code": "10" },
+          { "name": "상의", "code": "20" },
+          { "name": "하의", "code": "30" },
+          { "name": "잡화", "code": "50" }
+        ]
+      }
+    ]
+  },
+  "brand": {
+    "list": [
+      { "name": "AMOUPRE", "nameKr": "아모프레", "code": "k7", "isNew": false },
+      { "name": "Archivepke", "nameKr": "아카이브앱크", "code": "k2", "isNew": false },
+      { "name": "Boldest", "nameKr": "볼디스트", "code": "k1", "isNew": false },
+      { "name": "BRENTWOOD", "nameKr": "브렌우드", "code": "k4", "isNew": false },
+      { "name": "CAMBRIDGE MEMBERS", "nameKr": "캠브리지멤버스", "code": "15", "isNew": false },
+      { "name": "COURONNE", "nameKr": "쿠론", "code": "13", "isNew": false },
+      { "name": "CUSTOMELLOW", "nameKr": "커스텀멜로우", "code": "k3", "isNew": false },
+      { "name": "ELORD", "nameKr": "엘로드", "code": "k6", "isNew": false },
+      { "name": "epigram", "nameKr": "에피그램", "code": "19", "isNew": false },
+      { "name": "FREKER", "nameKr": "프리커", "code": "k5", "isNew": false },
+      { "name": "Golden Bear", "nameKr": "골든베어", "code": "a2", "isNew": false },
+      { "name": "Henry Cotton's", "nameKr": "헨리코튼", "code": "k9", "isNew": false },
+      { "name": "JACK NICKLAUS", "nameKr": "잭니클라우스", "code": "a1", "isNew": false },
+      { "name": "KOLON SPORT", "nameKr": "코오롱스포츠", "code": "11", "isNew": false },
+      { "name": "LE CASHMERE", "nameKr": "르캐시미어", "code": "k8", "isNew": false },
+      { "name": "LTEKS", "nameKr": "엘텍스", "code": "a3", "isNew": false },
+      { "name": "LUCKY CHOUETTE", "nameKr": "럭키슈에뜨", "code": "12", "isNew": false },
+      { "name": "RE;CODE", "nameKr": "래코드", "code": "17", "isNew": false },
+      { "name": "SERIES", "nameKr": "시리즈", "code": "16", "isNew": false },
+      { "name": "SUECOMMA BONNIE", "nameKr": "슈콤마보니", "code": "18", "isNew": false },
+      { "name": "WAAC", "nameKr": "왁", "code": "14", "isNew": false },
+      { "name": "WEATHER MONSTER", "nameKr": "웨더몬스터", "code": "a4", "isNew": false }
+    ]
+  },
+  "grade": {
+    "list": [
+      { "name": "A+ 최상급", "code": "AP" },
+      { "name": "A 상급", "code": "A" },
+      { "name": "B+ 중급", "code": "BP" }
+    ]
+  },
+  "season": {
+    "list": [
+      { "name": "봄", "code": "s" },
+      { "name": "여름", "code": "m" },
+      { "name": "가을", "code": "a" },
+      { "name": "겨울", "code": "w" }
+    ]
+  },
+  "type": {
+    "selectMode": "multi",
+    "list": [
+      { "name": "중고", "code": "sh,sr" },
+      { "name": "리퍼브", "code": "fp" }
+    ]
+  },
+  "price": {
+    "selectMode": "single",
+    "list": [
+      { "name": "10만원 미만", "code": "0r99999" },
+      { "name": "10만원 ~ 20만원 미만", "code": "100000r199999" },
+      { "name": "20만원 ~ 30만원 미만", "code": "200000r299999" },
+      { "name": "30만원 ~ 40만원 미만", "code": "300000r399999" },
+      { "name": "40만원 이상", "code": "400000r10000000" }
+    ]
+  }
+}

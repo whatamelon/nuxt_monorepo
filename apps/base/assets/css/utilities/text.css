@@ -1,0 +1,90 @@
+/* 텍스트 디자인 */
+/* SemiBold */
+
+@layer base {
+  .display-5-b {
+    @apply text-40xl font-semibold leading-52 tracking-base;
+  }
+
+  .display-4-b {
+    @apply text-36xl font-semibold leading-46 tracking-base;
+  }
+
+  .display-3-b {
+    @apply text-32xl font-semibold leading-42 tracking-base;
+  }
+
+  .display-2-b {
+    @apply text-28xl font-semibold leading-38 tracking-base;
+  }
+
+  .display-1-b {
+    @apply text-24xl font-semibold leading-30 tracking-base;
+  }
+
+  .headline-b {
+    @apply text-20xl font-semibold leading-24 tracking-base;
+  }
+
+  .headline-long-b {
+    @apply text-20xl font-semibold leading-32 tracking-base;
+  }
+
+  .subhead-3-b {
+    @apply text-base font-semibold leading-22 tracking-base;
+  }
+
+  .subhead-long-3-b {
+    @apply text-base font-semibold leading-28 tracking-base;
+  }
+
+  .subhead-2-b {
+    @apply text-tiny font-semibold leading-20 tracking-base;
+  }
+
+  .subhead-long-2-b {
+    @apply text-tiny font-semibold leading-24 tracking-base;
+  }
+
+  .caption-2-b {
+    @apply text-sm font-semibold leading-18 tracking-base;
+  }
+
+  .caption-1-b {
+    @apply text-xs font-semibold leading-16 tracking-base;
+  }
+
+  /* Regular */
+
+  .body-3-r {
+    @apply text-20xl font-normal leading-28 tracking-base;
+  }
+
+  .body-2-r {
+    @apply text-base font-normal leading-22 tracking-base;
+  }
+
+  .body-long-2-r {
+    @apply text-base font-normal leading-28 tracking-base;
+  }
+
+  /* placeholder */
+  /* .placeholder\:body-1-r {
+    @apply font-normal text-tiny leading-20 tracking-base
+} */
+  .body-1-r {
+    @apply text-tiny font-normal leading-20 tracking-base;
+  }
+
+  .body-long-1-r {
+    @apply text-tiny font-normal leading-24 tracking-base;
+  }
+
+  .label-2-r {
+    @apply text-sm font-normal leading-18 tracking-base;
+  }
+
+  .label-1-r {
+    @apply text-xs font-normal leading-16 tracking-base;
+  }
+}

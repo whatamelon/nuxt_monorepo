@@ -1,0 +1,109 @@
+{
+  "componentId": 122,
+  "template": {
+    "id": 5,
+    "type": "HomeTopBanner",
+    "alias": "MyTopBanner",
+    "url": "/src/file/hometopbanner.vue",
+    "version": "0.1"
+  },
+  "contents": {
+    "list": [
+      {
+        "contentsId": 628,
+        "titleTxt": "가을에 입기 좋은\n럭키슈에뜨 원피스 고르기",
+        "titleColor": "000000",
+        "bodyTxt": "하객룩부터 데일리룩까지 활용도 만점!\n원피스 득템하러 가기 >",
+        "bodyColor": "000000",
+        "actType": "prft",
+        "actData": "order=latest::cat=204000::brand=12::grade=AP,A,BP::season=s,a::type=",
+        "imgLink": "https://s3.ap-northeast-2.amazonaws.com/img.the-relay/components/122/contents/mid_banner_122_628_image_2024-08-23_18_08_28_image.png"
+      },
+      {
+        "contentsId": 629,
+        "titleTxt": "가을부터 겨울까지 쭉\n유용할 남성복 득템해 보세요",
+        "titleColor": "000000",
+        "bodyTxt": "품절되기 전에 빠르게 구매한 사람이 승자!\n상품 보러가기 >",
+        "bodyColor": "000000",
+        "actType": "prft",
+        "actData": "order=latest::cat=100000::brand=k4,k1,k3,k9,19,11,16,15,k7::grade=AP,A,BP::season=a,w::type=",
+        "imgLink": "https://s3.ap-northeast-2.amazonaws.com/img.the-relay/components/122/contents/2024-08-23_18_08_11_image.png"
+      },
+      {
+        "contentsId": 512,
+        "titleTxt": "골프웨어 신상 득템하기",
+        "titleColor": "ffffff",
+        "bodyTxt": "왁, 골든베어, 잭니클라우스, 엘로드 최대~85%\n품절되기 전에 상품 구매하기 >",
+        "bodyColor": "ffffff",
+        "actType": "evpl",
+        "actData": "393",
+        "imgLink": "https://s3.ap-northeast-2.amazonaws.com/img.the-relay/components/122/contents/mid_banner_122_512_image_2024-06-28_17_06_46_image.png"
+      },
+      {
+        "contentsId": 608,
+        "titleTxt": "옷장 속 잠들어 있는 의류\nOLO 릴레이 마켓이 사겠습니다",
+        "titleColor": "000000",
+        "bodyTxt": "4일 이내 코오롱몰 포인트로 보상!\n지금 판매 신청하러 가기 >",
+        "bodyColor": "000000",
+        "actType": "menu",
+        "actData": "pckg",
+        "imgLink": "https://s3.ap-northeast-2.amazonaws.com/img.the-relay/components/122/contents/2024-08-09_19_08_36_image.png"
+      },
+      {
+        "contentsId": 458,
+        "titleTxt": "쿠론,아카이브앱크\n상품 업데이트 START!",
+        "titleColor": "000000",
+        "bodyTxt": "가방,신발 품절되기 전에 득템하기 >",
+        "bodyColor": "000000",
+        "actType": "evpl",
+        "actData": "348",
+        "imgLink": "https://s3.ap-northeast-2.amazonaws.com/img.the-relay/components/122/contents/2024-06-04_08_06_58_image.png"
+      },
+      {
+        "contentsId": 505,
+        "titleTxt": "헨리코튼 그랜드 오픈\n본격 상품 업데이트 시작!",
+        "titleColor": "000000",
+        "bodyTxt": "신상품 지금 구매하러가기 > ",
+        "bodyColor": "000000",
+        "actType": "evpl",
+        "actData": "392",
+        "imgLink": "https://s3.ap-northeast-2.amazonaws.com/img.the-relay/components/122/contents/mid_banner_122_505_image_2024-06-28_14_06_58_image.png"
+      },
+      {
+        "contentsId": 453,
+        "titleTxt": "커스텀멜로우 OPEN!\n품절 전에 득템하기 최대 -85%",
+        "titleColor": "000000",
+        "bodyTxt": "상품 득템하러가기 > ",
+        "bodyColor": "000000",
+        "actType": "evpl",
+        "actData": "346",
+        "imgLink": "https://s3.ap-northeast-2.amazonaws.com/img.the-relay/components/122/contents/2024-06-03_14_06_43_image.png"
+      },
+      {
+        "contentsId": 434,
+        "titleTxt": "간결함의 미학\n에피그램 상품 신규 입고!",
+        "titleColor": "000000",
+        "bodyTxt": "새롭게 입고된 에피그램 신상 득템해 보세요\n구매하러 가기 > ",
+        "bodyColor": "000000",
+        "actType": "evpl",
+        "actData": "332",
+        "imgLink": "https://s3.ap-northeast-2.amazonaws.com/img.the-relay/components/122/contents/2024-05-23_10_05_53_image.png"
+      },
+      {
+        "contentsId": 454,
+        "titleTxt": "프리커 FREKER\n도전적이고 실용적인 실루엣",
+        "titleColor": "ffffff",
+        "bodyTxt": "신규 업데이트 상품 보러가기> ",
+        "bodyColor": "ffffff",
+        "actType": "evpl",
+        "actData": "345",
+        "imgLink": "https://s3.ap-northeast-2.amazonaws.com/img.the-relay/components/122/contents/mid_banner_122_454_image_2024-06-03_14_06_22_image.png"
+      }
+    ]
+  },
+  "data": null,
+  "createdAt": "2024-02-26T22:10:22",
+  "lastModifiedAt": "2024-02-26T22:10:22",
+  "contentsLastModifiedAt": "2024-09-24T18:49:48",
+  "contentsCount": 28
+}

@@ -1,0 +1,65 @@
+{
+  "componentId": 15,
+  "template": {
+    "id": 7,
+    "type": "BuyReviewList",
+    "alias": null,
+    "url": "/home/review/buyreviewlist.vue",
+    "version": "0.1"
+  },
+  "contents": {
+    "contentsId": 6,
+    "offset": "0",
+    "limit": "4"
+  },
+  "data": [
+    {
+      "reviewId": 10604,
+      "salesId": 49187,
+      "reviewType": "b",
+      "userId": 10896,
+      "userName": "추*지",
+      "starPoint": 5,
+      "msg": "깨끗하고 현 가격보다 훨씬 싸게 구입했습니다",
+      "imgs": "https://s3.ap-northeast-2.amazonaws.com/img.the-relay/homes/reviews/10896/1727230461229_0.jpg",
+      "reviewDate": "2024-09-25T11:14:21"
+    },
+    {
+      "reviewId": 10603,
+      "salesId": 49173,
+      "reviewType": "b",
+      "userId": 15685,
+      "userName": "강*나",
+      "starPoint": 5,
+      "msg": "역시 주문할때마다 만족스러워요!\r\n새상품급을 좋은가격에 구매할 수 있어서 자주 이용하규 있어요",
+      "imgs": "https://s3.ap-northeast-2.amazonaws.com/img.the-relay/homes/reviews/15685/1727224480575_0.jpg",
+      "reviewDate": "2024-09-25T09:34:40"
+    },
+    {
+      "reviewId": 10595,
+      "salesId": 49327,
+      "reviewType": "b",
+      "userId": 18189,
+      "userName": "김*호",
+      "starPoint": 5,
+      "msg": "겨울대비해구매했어요~\r\n색상도참맘에드네요!\r\n가볍고따뜻합니다~^^",
+      "imgs": "https://s3.ap-northeast-2.amazonaws.com/img.the-relay/homes/reviews/18189/1727187537178_0.jpg",
+      "reviewDate": "2024-09-24T23:18:57"
+    },
+    {
+      "reviewId": 10594,
+      "salesId": 49328,
+      "reviewType": "b",
+      "userId": 18189,
+      "userName": "김*호",
+      "starPoint": 5,
+      "msg": "색상이쨍하니예쁘네요!\r\n자주이용하지만품질은항상만족합니다 가격만좀더낮춰주세요",
+      "imgs": "https://s3.ap-northeast-2.amazonaws.com/img.the-relay/homes/reviews/18189/1727187296970_0.jpg",
+      "reviewDate": "2024-09-24T23:14:56"
+    }
+  ],
+  "createdAt": "2023-11-01T14:01:45",
+  "lastModifiedAt": "2023-11-01T14:01:45",
+  "contentsLastModifiedAt": "2024-02-16T13:40:52",
+  "contentsCount": 1
+}

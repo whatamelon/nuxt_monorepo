@@ -1,0 +1,52 @@
+{
+  "componentId": 80,
+  "template": {
+    "id": 44,
+    "type": "ResaleHomeReviewlist",
+    "alias": "ResaleHomeReviewlist",
+    "url": "/test/ResaleHomeReviewlist.vue",
+    "version": "0.1"
+  },
+  "contents": {
+    "contentsId": 69,
+    "tag": "고객리뷰",
+    "title": "건 판매리뷰",
+    "bgColor": "#003026"
+  },
+  "data": {
+    "totalCount": 5278,
+    "reviewList": [
+      {
+        "reviewId": 6108,
+        "reviewType": "s",
+        "userId": 12604,
+        "userName": "유*만",
+        "starPoint": 4,
+        "msg": "항상 잘이용하고 있어요 번창하시길바랍니다",
+        "reviewDate": "2024-09-25T15:01:35"
+      },
+      {
+        "reviewId": 6107,
+        "reviewType": "s",
+        "userId": 12260,
+        "userName": "이*호",
+        "starPoint": 5,
+        "msg": "입던 옷을재 판매 할수 있어서 너무 좋아요 ",
+        "reviewDate": "2024-09-25T12:23:13"
+      },
+      {
+        "reviewId": 6106,
+        "reviewType": "s",
+        "userId": 9501,
+        "userName": "류*아",
+        "starPoint": 5,
+        "msg": "꼼꼼한 검수로 재판매하는 게 맘에 들어요!",
+        "reviewDate": "2024-09-25T12:15:34"
+      }
+    ]
+  },
+  "createdAt": "2023-12-22T10:54:28",
+  "lastModifiedAt": "2023-12-22T10:54:29",
+  "contentsLastModifiedAt": "2024-02-16T13:40:52",
+  "contentsCount": 1
+}

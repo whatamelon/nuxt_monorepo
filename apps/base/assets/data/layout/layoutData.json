@@ -1,0 +1,54 @@
+{
+  "contentsId": 66,
+  "bgColor": "011C1F",
+  "titleTxt": "코오롱몰 공식 리세일 마켓",
+  "titleColor": "ffff",
+  "bodyTxt": "코오롱이 제안하는 순환 릴레이에 동참해 보세요!",
+  "bodyColor": "ffff",
+  "logoImage": "https://s3.ap-northeast-2.amazonaws.com/img.the-relay/brands/10/contents/layout_logo_image_2024-09-03_07_09_32.png",
+  "rightSideImage": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/layout_pc/faq.png",
+  "cardList": [
+    {
+      "cid": 3,
+      "bgColor": "4ADE80",
+      "titleTxt": "판매 보상 포인트로\n24SS 신상 구매하기!",
+      "titleColor": "003026",
+      "bodyTxt": "중고 의류 판매하고 받은 코오롱몰 포인트 \n지금 바로 코오롱몰에서 사용해 보세요!",
+      "bodyColor": "003026",
+      "buttonTxt": "코오롱몰 바로가기",
+      "buttonTxtColor": "ffffff",
+      "buttonBgColor": "003026",
+      "imgLink": "https://s3.ap-northeast-2.amazonaws.com/img.the-relay/brands/10/contents/pc_layout_card_3_image_2024-03-18_14_03_32.png",
+      "actType": "ourl",
+      "actData": "https://www.kolonmall.com/"
+    },
+    {
+      "actType": "menu",
+      "actData": "pckg",
+      "imgLink": "https://s3.ap-northeast-2.amazonaws.com/img.the-relay/brands/10/contents/cardimage_3_2024-03-18_15_03_55.png",
+      "cid": 4,
+      "titleTxt": "지구를 위한 바톤터치",
+      "bodyTxt": "입지 않는 코오롱 브랜드 제품을\n코오롱몰 포인트로 교환할 수 있는\n친환경 순환 릴레이!",
+      "buttonTxt": "판매하러 가기",
+      "titleColor": "222222",
+      "bodyColor": "222222",
+      "buttonTxtColor": "ffffff",
+      "buttonBgColor": "222222",
+      "bgColor": "BDF899"
+    },
+    {
+      "cid": 5,
+      "bgColor": "E4E4E4",
+      "titleTxt": "낮 12시 신상 도착!",
+      "titleColor": "222222",
+      "bodyTxt": "매일 낮 12시 새로운 상품이 업로드 됩니다!\n오늘의 인기 신상품을 확인해 보세요!",
+      "bodyColor": "222222",
+      "buttonTxt": "구경하러 가기",
+      "buttonTxtColor": "ffffff",
+      "buttonBgColor": "222222",
+      "imgLink": "https://s3.ap-northeast-2.amazonaws.com/img.the-relay/brands/10/contents/cardimage_4_2024-03-18_15_03_02.png",
+      "actType": "evpl",
+      "actData": "215"
+    }
+  ]
+}

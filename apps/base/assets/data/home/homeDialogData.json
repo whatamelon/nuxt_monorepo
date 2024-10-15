@@ -1,0 +1,22 @@
+{
+  "componentId": 520,
+  "template": {
+    "id": 49,
+    "type": "HomeDialog",
+    "alias": "HomeDialog",
+    "url": "/templates/home/dialog.vue",
+    "version": "0.1"
+  },
+  "contents": {
+    "contentsId": 670,
+    "formType": "bd",
+    "actType": "menu",
+    "actData": "pckg",
+    "imgLink": "https://s3.ap-northeast-2.amazonaws.com/img.the-relay/components/520/contents/image.png"
+  },
+  "data": null,
+  "createdAt": "2024-09-24T18:51:14",
+  "lastModifiedAt": "2024-09-24T18:51:14",
+  "contentsLastModifiedAt": "2024-09-24T18:51:14",
+  "contentsCount": 1
+}

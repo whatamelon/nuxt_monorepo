@@ -1,0 +1,30 @@
+{
+  "id": "10",
+  "name": "코오롱",
+  "hostName": "orm",
+  "brandMetadata": {
+    "brandName": "kolon",
+    "apiBrandName": "kolon",
+    "siteName": "OLO Relay Market",
+    "title": "OLO Relay Market | 코오롱 전용 리세일 마켓",
+    "description": "지구를 위한 릴레이! 오엘오 릴레이 마켓에서 코오롱 브랜드 제품을 리세일 해보세요.",
+    "keywords": "릴레이, OLO, 코오롱, 중고, 리세일, 코오롱스포츠, 럭키슈에뜨",
+    "naverSiteVerification": "892c222e6f90342526e4bd4dbcffc9dfcf148994",
+    "googleSiteVerification": "ifrwLpygem8KdhegQ3YIinS6jyCI73Qtc4H8dbEvsgk",
+    "facebookDomainVerification": "s896yprj30ynimflfbbyzdztak39ep",
+    "og_image": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/og_img.jpg",
+    "favicon": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/favicon.png",
+    "url": "https://orm.the-relay.kr",
+    "primaryColor": "#1eb08",
+    "logo_image": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/logo.png",
+    "isNotice": true,
+    "useEscrow": true,
+    "brandStoreUrl": "https://www.kolonmall.com/",
+    "noticeUrl": "https://mmemory.notion.site/OLO-RELAY-MARKET-NEWS-c2a142cfa6e24288a8ac489a70cc6568",
+    "faqUrl": "https://mmemory.notion.site/e3c40c9c8e66428f8c5b963aa00346fb",
+    "personalUrl": "https://mmemory.notion.site/3b825f10406b408d93460cd6291db923",
+    "ruleUrl": "https://mmemory.notion.site/OLO-RELAY-MARKET-288c00ec4ba54953a4bb1831ae7c2776",
+    "footerBody": "OLO RELAY MARKET은 코오롱인더스트리FnC 전용 리세일마켓으로 협력사인 릴레이(주식회사 마들렌메모리)가 모든 운영을 전담합니다.",
+    "globalCssLink": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/test/global.css"
+  }
+}

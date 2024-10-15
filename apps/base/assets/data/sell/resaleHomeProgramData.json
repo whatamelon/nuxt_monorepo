@@ -1,0 +1,26 @@
+{
+  "componentId": 37,
+  "template": {
+    "id": 21,
+    "type": "ResaleHomeProgram",
+    "alias": "ResaleHomeProgram",
+    "url": "/test/ResaleHomeProgram.vue",
+    "version": "0.1"
+  },
+  "contents": {
+    "contentsId": 28,
+    "tag": "친환경 프로그램",
+    "tagColor": "#BBF7D0",
+    "title": "지구를 위한 바톤터치\nOLO 릴레이",
+    "titleColor": "#fff",
+    "body": "OLO 릴레이마켓은 고객님의 코오롱 브랜드 제품을 수거 후 재상품화하여, 합리적인 가격으로 재판매하는 친환경 프로그램입니다.",
+    "bodyColor": "#fff",
+    "imgUrl": "https://s3.ap-northeast-2.amazonaws.com/saas-img.the-relay.kr/global/orm/package_landing/program.png",
+    "bgColor": "#003026"
+  },
+  "data": null,
+  "createdAt": "2023-10-26T16:10:08",
+  "lastModifiedAt": "2023-10-26T16:10:08",
+  "contentsLastModifiedAt": "2024-02-16T13:40:52",
+  "contentsCount": 1
+}
